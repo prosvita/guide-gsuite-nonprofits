@@ -50,6 +50,6 @@
 Зайдіть на сторінку [G Suite for Nonprofits](https://www.google.com/nonprofits/offerings/g-suite/).
 Прокручуйте сторінку в самий низ та переходьте за посиланням `Get started`.
 
-![](img/gs1.png)
+![](img/gs1.png | width=94x76)
 
 <!-- https://www.google.com/nonprofits/account/u/0/signup -->
